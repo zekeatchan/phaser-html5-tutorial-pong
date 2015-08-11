@@ -1,0 +1,40 @@
+{
+    "frames":
+    [
+
+        {
+                "filename": "Start0000",
+                "frame": {"x":0,"y":0,"w":193,"h":70},
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {"x":0,"y":0,"w":193,"h":70},
+                "sourceSize": {"w":193,"h":70}
+        }
+        ,{
+                "filename": "Start0001",
+                "frame": {"x":0,"y":71,"w":193,"h":70},
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {"x":0,"y":0,"w":193,"h":70},
+                "sourceSize": {"w":193,"h":70}
+        }
+        ,{
+                "filename": "Start0002",
+                "frame": {"x":0,"y":142,"w":193,"h":70},
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {"x":0,"y":0,"w":193,"h":70},
+                "sourceSize": {"w":193,"h":70}
+        }
+    ],
+        
+    "meta":
+    {
+        "app": "Adobe Flash CS6",
+        "version": "12.0.0.481",
+        "image": "startButton.png",
+        "format": "RGBA8888",
+        "size": {"w":193,"h":210},
+        "scale": "1"
+    }
+}
